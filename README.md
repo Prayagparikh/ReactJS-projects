@@ -16,13 +16,13 @@ More precise description of some projects with concepts is as below:
 10. **10_todoLocalContext**: Utilizes all concepts, including the browser's localStorage, to build a todo list app. Uses Context API and localStorage to get and set todo items. Allows adding, removing, editing, and marking todo tasks as completed.
 
 ### Screenshots of a few projects
-* Password Generator:
+* **Password Generator**:
 ![Password Generator screenshot](screenshots/passwordgenerator.png)
 
-* Currency Converter:
+* **Currency Converter**:
 ![Currency Converter Screenshot](screenshots/currencyconverter.png)
 
-* Todo List Project:
+* **Todo List Project**:
 ![Todo List Screenshot](screenshots/Todolist.png)
 
 ## How to use:
