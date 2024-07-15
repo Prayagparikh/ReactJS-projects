@@ -26,7 +26,7 @@ More precise description of some projects with concepts is as below:
 ![Todo List Screenshot](screenshots/Todolist.png)
 
 ## How to use:
-Well, I've used Vite as the build tool for this project. Once you clone the repository:
+Well, I've used Vite as the build tool for these projects. Once you clone the repository:
 
 ```sh
 1. Simply, change directory a particular project directory in the terminal:
