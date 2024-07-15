@@ -4,7 +4,7 @@ import './App.css'
 function App() {
   let [counter, setCounter]= useState(15)
 
-  // let counter = 15
+  // let counter = 15 + 1 only happens everytime -> even though setCounter written twice. because all setCounter functions bundles up and considered as one, unless it's written like in removeValue using callback (prevCounter)
   const addValue = () => {
     setCounter(counter + 1)
     setCounter(counter + 1)
