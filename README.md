@@ -17,12 +17,15 @@ More precise description of some projects with concepts is as below:
 
 ### Screenshots of a few projects
 * **Password Generator**:
+  
 ![Password Generator screenshot](screenshots/passwordgenerator.png)
 
 * **Currency Converter**:
+  
 ![Currency Converter Screenshot](screenshots/currencyconverter.png)
 
 * **Todo List Project**:
+  
 ![Todo List Screenshot](screenshots/Todolist.png)
 
 ## How to use:
